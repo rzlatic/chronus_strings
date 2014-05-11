@@ -253,7 +253,7 @@
     <string name="news_feed_loading_summary">Pričekajte trenutak\u2026</string>
     <string name="news_feed_no_data">Nema novih stavki</string>
     <string name="news_feed_no_data_summary">Dodirnite za osvježavanje</string>
-    <string name="news_feed_article_new_format">[NEW] <xliff:g id="title">%s</xliff:g></string>
+    <string name="news_feed_article_new_format">NOVO: <xliff:g id="title">%s</xliff:g></string>
     <string name="news_feed_read_more">Pročitaj više\u2026</string>
 
     <!-- News - Service -->
@@ -381,7 +381,7 @@
 
     <!-- Weather providers -->
     <string name="weather_source_yahoo">Yahoo! Weather</string>
-    <string name="weather_attribution_yrno">Podatke pruža Norveški meteorološki institut (Meteorologisk institutt)</string>
+    <string name="weather_attribution_yrno">Podatke pruža Norveški meteorološki institut\n(Meteorologisk institutt)</string>
 
     <!-- Widget names -->
     <!-- TRANSLATORS: The App name should remain as 'Chronus' -->
